@@ -1,10 +1,10 @@
-# Hey, I'm Ahmed Saeed Mirza 👋
+# Hey, I'm Ahmed Saeed Mirza 
 
 **Full Stack Developer** crafting fast, modern **AI-powered web applications**.
 
 I build intelligent systems that solve real problems — from multi-agent AI architectures to end-to-end encrypted platforms. My stack spans cutting-edge AI frameworks, modern web technologies, and rock-solid DevOps practices.
 
-## 🚀 What I Build
+## What I Build
 
 ### AI-Powered Applications
 - **Multi-agent systems** with LangChain, RAG pipelines, and LLM integrations
@@ -12,7 +12,7 @@ I build intelligent systems that solve real problems — from multi-agent AI arc
 - **Context-aware AI** using vector databases (FAISS) and semantic search
 
 ### Modern Web & Mobile
-- **Full-stack apps** with Next.js, React, FastAPI, and Express
+- **Full-stack apps** with Next.js, React, React Native (Expo) FastAPI, and Express
 - **Real-time systems** using WebSockets and Socket.IO
 - **Secure platforms** with E2E encryption, JWT auth, and cryptographic protocols
 
@@ -20,18 +20,13 @@ I build intelligent systems that solve real problems — from multi-agent AI arc
 
 | Category | Technologies |
 |----------|-------------|
-| **AI/ML** | LangChain, Hugging Face, FAISS, RAG, OpenAI |
-| **Frontend** | Next.js, React, TypeScript |
-| **Backend** | FastAPI, Express.js, Node.js |
+| **AI/ML** | LangChain, Hugging Face, FAISS, RAG |
+| **Frontend** | Next.js, React, TypeScript, React Native |
+| **Backend** | FastAPI, Express.js, Node.js, Flask |
 | **Databases** | MongoDB, SQLite, Firebase, PostgreSQL |
-| **DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD |
-| **Security** | WebCrypto API, JWT, E2E Encryption |
+| **DevOps** | Docker, Jenkins, GitHub Actions, CI/CD |
 
-## 💡 What Drives Me
-
-I'm passionate about building **AI that actually ships** — not just prototypes, but production-ready applications with proper security, scalability, and user experience. Whether it's orchestrating multi-agent workflows or implementing cryptographic protocols, I love tackling complex problems.
-
-## 📫 Let's Connect
+## Let's Connect
 
 Open to collaborations on AI applications, full-stack projects, or anything innovative.  
 Let's build something awesome together!
