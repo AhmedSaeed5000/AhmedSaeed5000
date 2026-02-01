@@ -1,53 +1,45 @@
-# Hey there, I'm Ahmed Saeed Mirza
+# Hey, I'm Ahmed Saeed Mirza 👋
 
-I'm a passionate full stack software engineer with a strong focus on DevOps, Agile practices, and modern web technologies. I thrive on building robust, scalable solutions and enjoy working across the entire software development lifecycle, from ideation to deployment and monitoring.
+**Full Stack Developer** crafting fast, modern **AI-powered web applications**.
 
----
-
-## Technical Proficiencies
-
-**Frontend**  
-- React.js  
-- Building dynamic, responsive, and user-friendly interfaces
-
-**Backend**  
-- Node.js, Express.js  
-- RESTful API design and implementation
-
-**Databases**  
-- MySQL, MS SQL Server, MongoDB, Firebase Firestore  
-- Schema design, performance tuning, and data modeling
-
-**Cloud & DevOps**  
-- Docker (containerization)  
-- Kubernetes (container orchestration)  
-- CI/CD pipelines with GitHub Actions  
-- Firebase for rapid development and serverless architectures
-
-**Programming Languages**  
-- C++, Java, JavaScript
+I build intelligent systems that solve real problems — from multi-agent AI architectures to end-to-end encrypted platforms. My stack spans cutting-edge AI frameworks, modern web technologies, and rock-solid DevOps practices.
 
 ---
 
-## DevOps & Agile Practice
+## 🚀 What I Build
 
-- Implementing end-to-end CI/CD pipelines to accelerate delivery and maintain high code quality
-- Proficient with containerization and orchestration for scalable, reliable deployments
-- Experienced in automating testing, deployment, and monitoring workflows
-- Strong advocate of Agile ceremonies, continuous feedback, and adaptive planning
+### AI-Powered Applications
+- **Multi-agent systems** with LangChain, RAG pipelines, and LLM integrations
+- **Intelligent document analysis** — CV parsing, SOP/LOR evaluation, academic guidance
+- **Context-aware AI** using vector databases (FAISS) and semantic search
 
----
-
-## AI & Machine Learning
-
-- Generative AI enthusiast, exploring the latest advancements in artificial intelligence
-- Currently delving into machine learning concepts, including fine-tuning LLMs (Large Language Models) with domain-specific data
-- Passionate about integrating AI to solve real-world problems
+### Modern Web & Mobile
+- **Full-stack apps** with Next.js, React, FastAPI, and Express
+- **Real-time systems** using WebSockets and Socket.IO
+- **Secure platforms** with E2E encryption, JWT auth, and cryptographic protocols
 
 ---
 
-## Let's Connect!
+## 🛠️ Tech Stack
 
-Feel free to explore my repositories or connect with me for collaboration, knowledge sharing, or just a friendly chat about technology!
+| Category | Technologies |
+|----------|-------------|
+| **AI/ML** | LangChain, Hugging Face, FAISS, RAG, OpenAI |
+| **Frontend** | Next.js, React, TypeScript |
+| **Backend** | FastAPI, Express.js, Node.js |
+| **Databases** | MongoDB, SQLite, Firebase, PostgreSQL |
+| **DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD |
+| **Security** | WebCrypto API, JWT, E2E Encryption |
 
 ---
+
+## 💡 What Drives Me
+
+I'm passionate about building **AI that actually ships** — not just prototypes, but production-ready applications with proper security, scalability, and user experience. Whether it's orchestrating multi-agent workflows or implementing cryptographic protocols, I love tackling complex problems.
+
+---
+
+## 📫 Let's Connect
+
+Open to collaborations on AI applications, full-stack projects, or anything innovative.  
+Let's build something awesome together!
