@@ -4,8 +4,6 @@
 
 I build intelligent systems that solve real problems — from multi-agent AI architectures to end-to-end encrypted platforms. My stack spans cutting-edge AI frameworks, modern web technologies, and rock-solid DevOps practices.
 
----
-
 ## 🚀 What I Build
 
 ### AI-Powered Applications
@@ -18,8 +16,6 @@ I build intelligent systems that solve real problems — from multi-agent AI arc
 - **Real-time systems** using WebSockets and Socket.IO
 - **Secure platforms** with E2E encryption, JWT auth, and cryptographic protocols
 
----
-
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -31,13 +27,9 @@ I build intelligent systems that solve real problems — from multi-agent AI arc
 | **DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD |
 | **Security** | WebCrypto API, JWT, E2E Encryption |
 
----
-
 ## 💡 What Drives Me
 
 I'm passionate about building **AI that actually ships** — not just prototypes, but production-ready applications with proper security, scalability, and user experience. Whether it's orchestrating multi-agent workflows or implementing cryptographic protocols, I love tackling complex problems.
-
----
 
 ## 📫 Let's Connect
 
